@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300);
+
+.App {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  color: white;
+}
+body {
+  position: relative;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  background-color: #2a2f43;
+  width: 425px;
+  list-style-type: none;
+  color: white;
+  right: 12px;
+  top: 180px;
+}
+.container {
+  cursor: pointer;
+  display: inline-block;
+}
+
+.col1 {
+  border: 1px solid white;
+  border-right: none;
+  border-top: none;
+  padding: 13px;
+  padding-right: 21px;
+  padding-left: 21px;
+  font-weight: 500;
+  cursor: pointer;
+}

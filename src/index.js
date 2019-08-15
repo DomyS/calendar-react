@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import Time from "./Time/Time";
-import "./styles.css";
+import "./index.css";
 
 class App extends React.Component {
   constructor(props) {

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calendar-react-lappen/static/css/main.85146dac.chunk.css",
+    "main.js": "/calendar-react-lappen/static/js/main.cad9ffe6.chunk.js",
+    "main.js.map": "/calendar-react-lappen/static/js/main.cad9ffe6.chunk.js.map",
+    "runtime~main.js": "/calendar-react-lappen/static/js/runtime~main.634d37f0.js",
+    "runtime~main.js.map": "/calendar-react-lappen/static/js/runtime~main.634d37f0.js.map",
+    "static/js/2.94471727.chunk.js": "/calendar-react-lappen/static/js/2.94471727.chunk.js",
+    "static/js/2.94471727.chunk.js.map": "/calendar-react-lappen/static/js/2.94471727.chunk.js.map",
+    "index.html": "/calendar-react-lappen/index.html",
+    "precache-manifest.efac0ede3e9bb0072aa12354ad9ce592.js": "/calendar-react-lappen/precache-manifest.efac0ede3e9bb0072aa12354ad9ce592.js",
+    "service-worker.js": "/calendar-react-lappen/service-worker.js",
+    "static/css/main.85146dac.chunk.css.map": "/calendar-react-lappen/static/css/main.85146dac.chunk.css.map"
+  }
+}
